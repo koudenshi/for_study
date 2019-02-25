@@ -1,0 +1,41 @@
+.wropper{
+ margin:0 auto;
+ width: 900px;
+ background-color: red;
+}
+
+.header{
+width: 100%;
+ height:100px;
+ background-color: blue;
+}
+
+.flexbox{
+  display: flex;
+}
+.frexbox div{
+flex: 1;
+height:500px
+
+}
+.nav{
+ float: left;
+ width: 150px;
+ height: 500px;
+ background-color: yellow;
+}
+.content{
+ float:left;
+ width: 550px;
+ height: 500px;
+}
+.containe{
+display: flex;
+}
+
+.footer{
+ clear: both;
+ width: 100%;
+ height: 100px;
+ background-color: green;
+}

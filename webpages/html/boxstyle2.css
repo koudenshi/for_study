@@ -1,0 +1,15 @@
+.box{
+border: 2px solid #000000;
+background-color:yellow;
+height:50px;
+width:300px;
+}
+
+.relative1{
+position: relative;
+}
+.relative2{
+position: relative;
+top: -30px;
+left:50px;
+}
